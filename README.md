@@ -6,7 +6,7 @@
   - [Build a HoneyPot](https://github.com/gif-97/HoneyPot-Pratice)
   - [Build a SIEM](https://github.com/gif-97/SIEM-Pratice)
 - <b>Malwares Attack Simulations</b>
-  - [Ramsomware Attack simulation](https://github.com/gif-97/RamsomwareAttack-Pratice) <b><i>(Potentially NSFW)</b></i>
+  - [Ramsomware Attack simulation](https://github.com/gif-97/RamsomwareAttack-Pratice) 
 
 <h2> 🤳 Connect with me:</h2>
 
