@@ -16,7 +16,7 @@
 
 [gmail]: giacomofestante@gmail.com
 [instagram]: https://www.instagram.com/giacomofestante/
-[linkedin]: https://linkedin.com/in/giacomofestante
+[linkedin]: https://linkedin.com/in/giacomofestante/
 
 <!--
 **gif-97/gif-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
