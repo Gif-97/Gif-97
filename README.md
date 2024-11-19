@@ -8,6 +8,10 @@
 - <b>Malwares Attack Simulations</b>
   - [Ramsomware Attack simulation](https://github.com/gif-97/RamsomwareAttack-Pratice) 
 
+![image](https://github.com/user-attachments/assets/0e892d63-c768-4b96-af06-a3decfd63b2e)
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="GiF | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
