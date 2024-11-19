@@ -5,7 +5,7 @@
   - [Create a Home Network with Cisco Packet Tracer](https://github.com/gif-97/HomeNetwork-Pratice)
   - [Build a HoneyPot](https://github.com/gif-97/HoneyPot-Pratice)
   - [Build a SIEM](https://github.com/gif-97/SIEM-Pratice)
-  - <b>Ramsomware Attack</b>
+  - <b>Malwares Attack Simulations</b>
   - [Ramsomware Attack simulation](https://github.com/gif-97/RamsomwareAttack-Pratice) <b><i>(Potentially NSFW)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
