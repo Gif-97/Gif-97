@@ -12,10 +12,9 @@
 
 [<img align="left" alt="GiF | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="GiF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GiF | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [gmail]: mailto:giacomofestante@gmail.com
-[instagram]: https://www.instagram.com/giacomofestante/
 [linkedin]: https://linkedin.com/in/giacomofestante/
 
 <!--
