@@ -8,8 +8,9 @@
 - <b>Malwares Attack Simulations</b>
   - [Ramsomware Attack simulation](https://github.com/gif-97/RamsomwareAttack-Pratice) 
 
-![image](https://github.com/user-attachments/assets/0e892d63-c768-4b96-af06-a3decfd63b2e)
 
+<h2>📄 Certifications:</h2>
+- [Cisco Cybersecurity Operation Associate](https://www.credly.com/badges/ee9fce61-bcee-48ba-9f04-9e5c5b9e74f5/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
