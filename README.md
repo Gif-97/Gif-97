@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Network</b>
-  - [Create a Home Network with Cisco Packet Tracer](https://github.com/gif-97/HomeNetwork-Pratice)
+  - [Create a Home Network](https://github.com/gif-97/HomeNetwork-Pratice)
   - [Build a HoneyPot](https://github.com/gif-97/HoneyPot-Pratice)
   - [Build a SIEM](https://github.com/gif-97/SIEM-Pratice)
 - <b>Malwares Attack Simulations</b>
