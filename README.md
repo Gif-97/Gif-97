@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gif-97.gif-97" />
-<h1>Hi, I'm Giacomo! <br/><a href="https://gif-97.github.io/GiF97Repo.github.io/">Cyber Security Specialist</a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giacomo!;" /> <h1><br/><a href="https://gif-97.github.io/GiF97Repo.github.io/">Cyber Security Specialist</a>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Network</b>
