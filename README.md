@@ -5,7 +5,7 @@
 |     Project         |                 Skills                |     Tools       |
 | ----------------------- | ------------------------------------- | --------------- |
 |-----Home Network----|
-| [Build a Home Network](https://github.com/gif-97/HomeNetwork-Pratice)|Configuring firewalls and VLANs, Mitigating common attacks, Managing virtual networks.|pfSense, VMWare, Kali Linux, Windows 11|
+| [Build a Home Network](https://github.com/gif-97/HomeNetwork-Pratice)|Configuring firewalls and VLANs, Mitigating common attacks, Managing virtual networks.|pfSense, VMWare, Kali Linux, Windows 11, Ubuntu Server, Docker, Ngrok|
 | [Build a SIEM](https://github.com/gif-97/SIEM-Pratice) | Log management, Security Archtecture  |Wazuh, VMWare |
 | [Build a HoneyPot](https://github.com/gif-97/HoneyPot-Pratice)|Honeypot configuration and management, log analysis and intrusion monitoring, use of Snort for intrusion detection.|VMWare, Wazuh, Snort|
 |Malwares Attack Simulations|
