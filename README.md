@@ -17,6 +17,9 @@
 |     Certification           |               Completed                  |
 | ----------------------------| -----------------------------------------| 
 | [Cisco CyberOps Associate](https://www.credly.com/badges/ee9fce61-bcee-48ba-9f04-9e5c5b9e74f5/public_url)    |                27/10/2023                |
+| [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/e408a992-b5f6-47b0-95d6-9654bd671a63/linked_in_profile) |                05/02/2025                |
+| [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/b6d7bbff-3822-43b5-976f-1364d44717c1/linked_in_profile) |                06/02/2025                |
+| [Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/83b0ad61-fb2d-4c4b-80e0-e9d9c008f185/linked_in_profile) |                07/02/2025                |
 | [Cisco Networking Essentials](https://www.credly.com/badges/10c5e3ad-e9a7-45b9-b7d2-639b7ec64e62/public_url) |                15/06/2023                |
 | [Cisco introduction to Cybersecurity](https://www.credly.com/badges/6ffb955e-4952-4f28-90b9-3ffc3939b83c/public_url)   |                04/05/2023      | 
 | [Cisco IT Essentials: PC Hardware and Software](https://www.credly.com/badges/4f830af3-5d3d-4a21-9e4b-6a3983a6dd12/public_url)|               24/04/2023|              
